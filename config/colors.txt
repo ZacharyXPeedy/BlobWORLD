@@ -1,0 +1,13 @@
+black
+blue
+brown
+blob
+green
+inverted
+orange
+pink
+purple
+red
+troll
+white
+yellow
